@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Multipass on Windows"
+tags: [Windows, Multipass, VirtualBox]
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 date: 2020-02-21
 title: Using Multipass and VirtualBox on Windows
 subtitle: How to use all features of Multipass when running it on Windows with VirtualBox
