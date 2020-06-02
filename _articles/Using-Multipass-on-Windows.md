@@ -374,7 +374,7 @@ Name              : WiFi 2
 DriverDescription : Intel(R) Dual Band Wireless-AC 8260
 ```
 
-_Note_:  the value of the"DriverDescription" property for the Windows interface I will use: \
+_Note_:  the value of the"DriverDescription" property for the Windows interface I will use:  
 `DriverDescription : "Intel(R) Dual Band Wireless-AC 8260"`
 
 __B05\.__ Get vm2 info from VirtualBox, using the admin-mode PowerShell:

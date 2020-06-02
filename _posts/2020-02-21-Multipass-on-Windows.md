@@ -7,7 +7,7 @@ tags: [Windows, Multipass, VirtualBox]
 
 I find interesting to use [__Multipass__][mpref]. It is a lightweight tool created by Canonical
 to ease development on a personal workstation. Its functions are similar to 
-Hashicorp's [__Vagrant__][vagref] but it works only with Ubuntu cloud images. It's interesting because it allows 
+Hashicorp's [__Vagrant__][vagref] but it works only with Ubuntu cloud images. It's useful because it allows 
 a developer to configure a cloud VM image on first launch using the built-in [__cloud-init__][cinitref] provider.  
 
 The cloud-init provider is important because most of the time a cloud infrastructure needs a variety of base images.
