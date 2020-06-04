@@ -873,11 +873,11 @@ before using the guest for other tests.
 
 ## <a name="references"></a>E. References
 
-__E01\.__ [An article by Jon Spriggs][spriggslink]. Extremely useful. \
-__E02\.__ [Multipass website][multipasslink] \
-__E03\.__ [VirtualBox website][virtualboxlink] \
-__E04\.__ [VBoxManage manual][vboxmanagelink] \
-__E05\.__ [PsExec.exe documentation][psexeclink] \
+__E01\.__ [An article by Jon Spriggs][spriggslink]. Extremely useful.  
+__E02\.__ [Multipass website][multipasslink]  
+__E03\.__ [VirtualBox website][virtualboxlink]  
+__E04\.__ [VBoxManage manual][vboxmanagelink]  
+__E05\.__ [PsExec.exe documentation][psexeclink]  
 __E06\.__ [Webmin installation on Ubuntu 18.04 article][webmininstalllink]  
 
 -------
