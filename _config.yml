@@ -17,7 +17,7 @@ navbar-links:
   Now: "now"
   Resources:
     - Articles: "articles"
-    - Books I'm reding: "books"
+    - Books I'm reading: "books"
   Author's home: "https://www.ichim.co.uk"
 
 # --- Logo --- #
@@ -41,24 +41,24 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "adrian@ichim.co.uk"
-#  facebook: deanattali
+#  facebook: yourID
   github: adrianichim
-#  twitter: daattali
+#  twitter: yourID
   rss: true
-#  reddit: yourname
+#  reddit: yourID
   linkedin: adrian-ichim
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  xing: yourID
+#  stackoverflow: "3943160/yourID"
+#  snapchat: yourID
+#  instagram: yourID
+#  youtube: user/yourID
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
+#  steam: yourID
+#  twitch: yourID
+#  yelp: yourID
+#  telegram: yourID
+#  calendly: yourID
 
 # --- General options --- #
 
