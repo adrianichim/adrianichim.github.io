@@ -874,16 +874,18 @@ before using the guest for other tests.
 ## <a name="references"></a>E. References
 
 __E01\.__ [An article by Jon Spriggs][spriggslink]. Extremely useful.  
-__E02\.__ [Multipass website][multipasslink]  
-__E03\.__ [VirtualBox website][virtualboxlink]  
-__E04\.__ [VBoxManage manual][vboxmanagelink]  
-__E05\.__ [PsExec.exe documentation][psexeclink]  
-__E06\.__ [Webmin installation on Ubuntu 18.04 article][webmininstalllink]  
+__E02\.__ [Multipass on Windows][multipasswin], explained by the Multipass team (updated).  
+__E03\.__ [Multipass website][multipasslink]  
+__E04\.__ [VirtualBox website][virtualboxlink]  
+__E05\.__ [VBoxManage manual][vboxmanagelink]  
+__E06\.__ [PsExec.exe documentation][psexeclink]  
+__E07\.__ [Webmin installation on Ubuntu 18.04 article][webmininstalllink]  
 
 -------
 
 
 [multipasslink]:https://multipass.run/  "Multipass website"
+[multipasswin]:https://multipass.run/docs/using-virtualbox-in-multipass-windows
 [vagrantlink]:https://www.vagrantup.com/  "Vagrant website"
 [cloudinitlink]:https://cloudinit.readthedocs.io/en/latest/index.html#  "cloud-init documentation"
 [virtualboxlink]:https://www.virtualbox.org/ "VirtualBox website"
